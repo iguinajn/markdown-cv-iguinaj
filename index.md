@@ -2,7 +2,7 @@
 layout: cv
 title: Joshua Iguina's CV
 ---
-# Isaac Newton
+# Joshua Iguina
 Chemical Engineer, E.I.T., P.E. in progress, Environmental Engineering Experienced.
 
 <div id="webaddress">
@@ -25,6 +25,10 @@ SOP Creation
 HAZOP
 Regulation Compliance
 Environmental Regulation Compliance
+Analytical Methodology
+Engineering Software and Data Analytics
+P&ID Diagram Analysis
+Codees and Standards (State and Federal)
 
 
 ### Research interests
@@ -62,15 +66,20 @@ __Engineering Designer__, Yuma, AZ
 - Risk Assessment
 - Regulatory Compliance
 - Radon Measurement and Mitigation
-- 
+- Client Relations
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2021-2022`
+__Safety and Waste Manager__, Gowan Company
+- Regulatory Coompliance
+- Analytical Methodology
+- SOP Creation
+- Waste Management
+- Process Scaling
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2026 -->
 
 
