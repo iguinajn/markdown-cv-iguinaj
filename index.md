@@ -11,11 +11,11 @@ Chemical Engineer, E.I.T., P.E. in progress, Environmental Engineering Experienc
 </div>
 
 
-## Currently
+## Current
 
 Engineering Designer working on obtaining a Professional Engineering License for the state of Arizona, and working on local environmental engineering projects.
 
-### Specialized in
+### Skills
 
 Phase I ESA
 STI SP001 Tank Inspections
@@ -42,7 +42,7 @@ __Arizona State University__
 
 
 
-## Awards
+## Professional Certifications
 
 `2025`
 Engineering in Training Certification
@@ -53,7 +53,7 @@ STI SP001 Tank Inspector Certification
 Radon Measurement Professional Certification
 
 
-## Occupation
+## Work History
 
 `2023-Current`
 __Engineering Designer__, Yuma, AZ
