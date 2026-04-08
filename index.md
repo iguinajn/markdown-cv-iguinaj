@@ -31,10 +31,6 @@ P&ID Diagram Analysis
 Codees and Standards (State and Federal)
 
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
