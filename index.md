@@ -7,17 +7,24 @@ Chemical Engineer, E.I.T., P.E. in progress, Environmental Engineering Experienc
 
 <div id="webaddress">
 <a href="iguinajn@gmail.com">iguinajn@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Engineering Designer working on obtaining a Professional Engineering License for the state of Arizona, and working on local environmental engineering projects.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Phase I ESA
+STI SP001 Tank Inspections
+Radon Measurement and Mitigation
+Process Management
+SOP Creation
+HAZOP
+Regulation Compliance
+Environmental Regulation Compliance
 
 
 ### Research interests
@@ -27,57 +34,35 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2019`
+__Arizona State University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Bachelor's of Science in Engineering
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`2025`
+Engineering in Training Certification
+STI SP001 Tank Inspector Certification
 
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+'2024' 
+Radon Measurement Professional Certification
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2023-Current`
+__Engineering Designer__, Yuma, AZ
 
-- Warden
-- Minted coins
+- Phase I ESA's
+- Risk Assessment
+- Regulatory Compliance
+- Radon Measurement and Mitigation
+- 
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
